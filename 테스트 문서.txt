@@ -1,8 +1,3 @@
 TEST_00
 TEST_01
-<<<<<<< HEAD
-TEST_02
-TEST_03
-=======
 
->>>>>>> parent of 378ceb7... SUBJECT_02
